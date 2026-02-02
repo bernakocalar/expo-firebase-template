@@ -4,5 +4,11 @@
   "signup": "Sign Up",
   "email": "Email",
   "password": "Password",
-  "home": "Home"
+  "home": "Home",
+  "description": "This is a starter template with Firebase, i18n, and Expo. You can toggle languages to see how it works.",
+  "features": "Features included:",
+  "feature1": "Firebase Auth & Firestore",
+  "feature2": "Internationalization (i18n)",
+  "feature3": "React Navigation",
+  "changeLanguage": "Change Language"
 }

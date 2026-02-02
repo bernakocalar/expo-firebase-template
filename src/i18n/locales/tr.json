@@ -4,5 +4,11 @@
     "signup": "Kaydol",
     "email": "E-posta",
     "password": "Şifre",
-    "home": "Anasayfa"
+    "home": "Anasayfa",
+    "description": "Bu, Firebase, i18n ve Expo içeren bir başlangıç şablonudur. Nasıl çalıştığını görmek için dili değiştirebilirsiniz.",
+    "features": "Dahil edilen özellikler:",
+    "feature1": "Firebase Auth & Firestore",
+    "feature2": "Uluslararasılaştırma (i18n)",
+    "feature3": "React Navigation",
+    "changeLanguage": "Dili Değiştir"
 }
